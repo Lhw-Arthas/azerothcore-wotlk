@@ -9,7 +9,7 @@ before_script:
 
   - brew install ace
   - brew install mysql
-  - brew install openssl readline ace coreutils bash bash-completion md5sha1sum
+  - brew install bash bash-completion md5sha1sum
 
   - mkdir build
   - cd build
